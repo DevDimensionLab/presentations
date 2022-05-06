@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T11:56:13.489Z" agent="5.0 (X11)" version="16.2.4" etag="4b2ExPpyCcgPgwJSWqKk" type="github"><diagram id="ERHAiRXDCB4a8st4eBxd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-06T11:58:48.781Z" agent="5.0 (X11)" etag="qXRt72TSJemsAYD5KDOt" version="16.2.4" type="github" pages="6">
+  <diagram id="ERHAiRXDCB4a8st4eBxd" name="Co-pilot">
+    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WuXijpv-XlSjNYNshdTP-1" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Co-pilot&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482" y="399" width="205" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rqKsr_JnIG8WdDyesQEx" name="Bakgrunn">
+    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="8CVXbF6mbS8gPSln28C5-0" />
+        <mxCell id="8CVXbF6mbS8gPSln28C5-1" parent="8CVXbF6mbS8gPSln28C5-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Z5Dm1qZCLQRseNI-kh_C" name="Prinsipper">
+    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="5Z5gPkN7hn-0vczx97rB-0" />
+        <mxCell id="5Z5gPkN7hn-0vczx97rB-1" parent="5Z5gPkN7hn-0vczx97rB-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wLAmw9cv39-o-1n2shqL" name="Hovedfunksjoner">
+    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="4Ibu8T-qfkhbQgtLXFWl-0" />
+        <mxCell id="4Ibu8T-qfkhbQgtLXFWl-1" parent="4Ibu8T-qfkhbQgtLXFWl-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uyXSEhbNi6WqY9PgnYoO" name="Demo">
+    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="R-vZ1dKihNmzg3Rz2N87-0" />
+        <mxCell id="R-vZ1dKihNmzg3Rz2N87-1" parent="R-vZ1dKihNmzg3Rz2N87-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZJyswE1VTFCf1-JeKAvE" name="Hvor">
+    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="M9J1JHxmiQD_o27Hn0rk-0" />
+        <mxCell id="M9J1JHxmiQD_o27Hn0rk-1" parent="M9J1JHxmiQD_o27Hn0rk-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
