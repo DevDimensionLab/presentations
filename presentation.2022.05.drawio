@@ -1,41 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T11:58:48.781Z" agent="5.0 (X11)" etag="qXRt72TSJemsAYD5KDOt" version="16.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-07T15:37:17.968Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="WL9URFjldzmiG8BDgdVW" version="16.2.4" type="github" pages="6">
   <diagram id="ERHAiRXDCB4a8st4eBxd" name="Co-pilot">
-    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WuXijpv-XlSjNYNshdTP-1" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Co-pilot&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WuXijpv-XlSjNYNshdTP-1" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Co-pilot&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="482" y="399" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rqKsr_JnIG8WdDyesQEx" name="Bakgrunn">
-    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8CVXbF6mbS8gPSln28C5-0" />
         <mxCell id="8CVXbF6mbS8gPSln28C5-1" parent="8CVXbF6mbS8gPSln28C5-0" />
+        <mxCell id="QmJe1emxZ8cJ22GNV6gv-0" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Bakgrunn&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8CVXbF6mbS8gPSln28C5-1">
+          <mxGeometry x="482" y="230" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QBQUbTmZEr4YH7XMrHyA-0" value="&lt;ul&gt;&lt;li&gt;Ledig tid etter prosjekt i 2020&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8CVXbF6mbS8gPSln28C5-1">
+          <mxGeometry x="462" y="380" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Z5Dm1qZCLQRseNI-kh_C" name="Prinsipper">
-    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="5Z5gPkN7hn-0vczx97rB-0" />
         <mxCell id="5Z5gPkN7hn-0vczx97rB-1" parent="5Z5gPkN7hn-0vczx97rB-0" />
+        <mxCell id="DMGiAOkkfmo55AU19_jI-0" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Prinsipper&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5Z5gPkN7hn-0vczx97rB-1">
+          <mxGeometry x="482" y="290" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7Qs8E6q4GPPRcgI3xLf-0" value="&lt;ul&gt;&lt;li&gt;Open source&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Generisk&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5Z5gPkN7hn-0vczx97rB-1">
+          <mxGeometry x="510" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wLAmw9cv39-o-1n2shqL" name="Hovedfunksjoner">
-    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="4Ibu8T-qfkhbQgtLXFWl-0" />
         <mxCell id="4Ibu8T-qfkhbQgtLXFWl-1" parent="4Ibu8T-qfkhbQgtLXFWl-0" />
+        <mxCell id="0NoAKyqxWF8pEPtbyQNN-0" value="&lt;font style=&quot;font-size: 48px&quot;&gt;Hovedfunksjoner&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Ibu8T-qfkhbQgtLXFWl-1">
+          <mxGeometry x="482" y="240" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pkLoRGxxg3nJezgYvF5c-0" value="&lt;ul&gt;&lt;li&gt;Opprette apper, webservices, batches, motorer osv enkelt&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Oppgradere og vedlikeholde eksisterende prosjekter&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="4Ibu8T-qfkhbQgtLXFWl-1">
+          <mxGeometry x="405" y="384" width="360" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="uyXSEhbNi6WqY9PgnYoO" name="Demo">
-    <mxGraphModel dx="1816" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="R-vZ1dKihNmzg3Rz2N87-0" />
         <mxCell id="R-vZ1dKihNmzg3Rz2N87-1" parent="R-vZ1dKihNmzg3Rz2N87-0" />
